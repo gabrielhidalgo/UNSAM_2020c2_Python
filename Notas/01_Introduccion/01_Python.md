@@ -47,7 +47,7 @@ En tu máquina, arrancá el Python y usal como una calculadora para resolver el 
 ```python
 >>> 105/60
 1.75
->>> 20 * 0.6214
+>>> 20 * 0.6214 ( Aqui se divide y no se multiplica ). Por favor revisar esto !!!
 12.428
 ```
 
